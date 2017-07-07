@@ -1,7 +1,8 @@
 
 public class Aplicacao {
-
-	Carro c = new Carro();
 	
-
+	public static void main(String[] args) {
+		Carro c = new Carro("Ferrari");
+		
+	}
 }
