@@ -1,0 +1,7 @@
+*.DS_Store
+*.metadata*.recommenders/
+*RemoteSystemsTempFiles/
+*apache-tomcat-7.0.69/
+*.classpath
+*.project
+*.settings/org.eclipse.jdt.core.prefs
